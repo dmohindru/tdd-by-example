@@ -4,7 +4,13 @@ All source code examples in the repository are for my [Online Course - Testing S
 
 Examples provided have been inspired by Kent Beck's examples in his book [Test-Driven Development By Example](https://amzn.to/2DTP58p)
 
-In this repository, I look at using Beck's classic TDD Money Example - updated to Java 11 and JUnit 5. 
+In this repository, I look at using Beck's classic TDD Money Example - updated to Java 11 and JUnit 5.
+
+## Description
+This repository contains following code example
+* TDD development approach
+* Usage of JUnit 5
+* Setting up maven dependencies for JUnit 5
 
 ## Setup
 ### Requirements
